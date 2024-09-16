@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 793.7018 1122.5211"
+   width="178mm"
+   height="127mm"
+   viewBox="0 0 672.75676 480.00061"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="HOゲージ103系用方向幕.svg"
+   sodipodi:docname="HO-scale_JNR103Series_Boso.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="false"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="6.5098604"
-     inkscape:cx="17.742316"
-     inkscape:cy="63.058188"
+     inkscape:zoom="16"
+     inkscape:cx="35.71875"
+     inkscape:cy="299.78125"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g97"
      labelstyle="below"
      shape-rendering="auto"
      showborder="true"
@@ -41,9 +41,9 @@
      id="defs1">
     <rect
        x="-13.057116"
-       y="0.076980349"
-       width="19.66248"
-       height="2.9956297"
+       y="0.076980352"
+       width="19.662479"
+       height="2.9956298"
        id="rect30" />
     <linearGradient
        id="swatch1"
@@ -79,8 +79,44 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3.7795221,-7.559065)"
+     transform="translate(-3.77952, -7.55907)"
      style="display:inline">
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.24782px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+       x="15.609632"
+       y="182.09645"
+       id="text59"
+       transform="scale(0.9675136,1.0335772)"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         style="fill:#000000;fill-opacity:1;stroke-width:0"
+         x="15.609632"
+         y="182.09645">八街</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.03703px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+       x="18.247721"
+       y="168.53142"
+       id="text60"
+       transform="scale(0.82911803,1.2061009)"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         x="18.247721"
+         y="168.53142"
+         style="stroke-width:0">八日市場</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.01239px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+       x="18.16098"
+       y="206.75584"
+       id="text61"
+       transform="scale(0.83119686,1.2030844)"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="stroke-width:0"
+         x="18.16098"
+         y="206.75584">成田空港</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.21857px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
@@ -117,17 +153,6 @@
          x="15.475466"
          y="50.879978"
          id="tspan9">君津</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.55907px;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
-       x="0"
-       y="94.011353"
-       id="text11"><tspan
-         sodipodi:role="line"
-         id="tspan10"
-         style="stroke-width:0.385512"
-         x="0"
-         y="94.011353" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.27019px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
@@ -228,86 +253,62 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.16768px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
        x="15.569651"
-       y="183.54948"
+       y="213.02971"
        id="text24"
        transform="scale(0.97499575,1.0256455)"><tspan
          sodipodi:role="line"
          id="tspan24"
          style="stroke-width:0.385512"
          x="15.569651"
-         y="183.54948">銚子</tspan></text>
+         y="213.02971">銚子</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.41365px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
        x="15.512659"
-       y="202.51912"
+       y="232.62421"
        id="text25"
        transform="scale(0.99566161,1.0043573)"><tspan
          sodipodi:role="line"
          id="tspan25"
          style="stroke-width:0.385512"
          x="15.512659"
-         y="202.51912">成田</tspan></text>
+         y="232.62421">成田</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.98574px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
        x="18.110163"
-       y="183.73032"
+       y="221.87901"
        id="text26"
        transform="scale(0.84112403,1.1888853)"><tspan
          sodipodi:role="line"
          id="tspan26"
          style="stroke-width:0.385512"
          x="18.110163"
-         y="183.73032">鹿島神宮</tspan></text>
+         y="221.87901">鹿島神宮</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.19449px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385512;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
        x="15.711448"
-       y="224.5482"
+       y="268.14551"
        id="text27"
        transform="scale(0.96125738,1.0403041)"><tspan
          sodipodi:role="line"
          id="tspan27"
          style="stroke-width:0.385512"
          x="15.711448"
-         y="224.5482">我孫子</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13428px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
-       x="15.458302"
-       y="256.16626"
-       id="text34"
-       transform="scale(0.9710085,1.0298571)"><tspan
-         sodipodi:role="line"
-         id="tspan34"
-         style="stroke-width:0.385512"
-         x="15.458302"
-         y="256.16626">千葉港</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.46934px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
-       x="19.488026"
-       y="215.40866"
-       id="text35"
-       transform="scale(0.77226016,1.2949004)"><tspan
-         sodipodi:role="line"
-         id="tspan35"
-         style="stroke-width:0.385512"
-         x="19.488026"
-         y="215.40866">千葉みなと</tspan></text>
+         y="268.14551">我孫子</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.26488px;font-family:'MS PGothic';-inkscape-font-specification:'MS PGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.385513;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
        x="15.771068"
-       y="241.16664"
+       y="285.13837"
        id="text37"
        transform="scale(0.96951477,1.0314438)"><tspan
          sodipodi:role="line"
          id="tspan37"
          style="stroke-width:0.385512"
          x="15.771068"
-         y="241.16664">佐原</tspan></text>
+         y="285.13837">佐原</tspan></text>
     <g
        id="g1"
        transform="translate(-8.0874619e-7,-22.677157)"
@@ -334,57 +335,33 @@
            id="tspan30"
            x="44.631664"
            y="51.53442"
-           style="stroke-width:0;fill:#234059;fill-opacity:1">FOR CHIBA</tspan></text>
+           style="fill:#234059;fill-opacity:1;stroke-width:0">FOR CHIBA</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.57008px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         x="41.909931"
-         y="51.568302"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08104px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="50.711895"
+         y="47.728245"
+         id="text48"
+         transform="scale(1.1264507,0.88774413)"
+         inkscape:label="葉"><tspan
+           sodipodi:role="line"
+           id="tspan48"
+           x="50.711895"
+           y="47.728245"
+           style="stroke-width:0">葉</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.18201px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="39.682087"
+         y="48.002171"
          id="text1"
-         transform="scale(1.2170862,0.82163446)"
-         inkscape:label="千葉"><tspan
+         transform="scale(1.1330709,0.88255731)"
+         inkscape:label="千"><tspan
            sodipodi:role="line"
-           id="tspan3"
-           x="0"
-           y="0"
-           style="display:inline;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill;fill:#234059;fill-opacity:1">千 葉</tspan></text>
-    </g>
-    <g
-       id="g9"
-       transform="translate(34.015828,-22.677157)"
-       style="display:inline">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;image-rendering:auto"
-         id="rect4"
-         width="26.456694"
-         height="7.5590553"
-         x="37.795277"
-         y="37.795277"
-         ry="1.511811"
-         rx="1.511811" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11457px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0.385822;stroke-dasharray:none"
-         x="47.074978"
-         y="48.862041"
-         id="text5"
-         transform="scale(1.083402,0.92301843)"
-         inkscape:label="FOR CHIBA"><tspan
-           sodipodi:role="line"
-           id="tspan31">FOR CHIBA</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.57008px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:1.05646;stroke-dasharray:none"
-         x="41.909931"
-         y="51.568302"
-         id="text6"
-         transform="scale(1.2170862,0.82163446)"
-         inkscape:label="千葉"><tspan
-           sodipodi:role="line"
-           id="tspan6"
-           x="41.909931"
-           y="51.568302"
-           style="stroke-width:1.05646;fill:#234059;fill-opacity:1">千 葉</tspan></text>
+           id="tspan47"
+           x="39.682087"
+           y="48.002171"
+           style="stroke-width:0">千</tspan></text>
     </g>
     <g
        id="g13"
@@ -409,25 +386,25 @@
          inkscape:label="FOR KISARAZU"><tspan
            sodipodi:role="line"
            id="tspan29"
-           style="stroke-width:0;fill:#234059;fill-opacity:1"
+           style="fill:#234059;fill-opacity:1;stroke-width:0"
            x="48.183899"
            y="47.639866">FOR KISARAZU</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.862px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill;fill-opacity:1"
-         x="52.77581"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.862px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         x="52.605701"
          y="47.03788"
          id="text15"
          transform="scale(1.1109267,0.90014939)"
          inkscape:label="津"><tspan
            sodipodi:role="line"
            id="tspan15"
-           style="stroke-width:0;fill:#234059;fill-opacity:1"
-           x="52.77581"
+           style="fill:#234059;fill-opacity:1;stroke-width:0"
+           x="52.605701"
            y="47.03788">津</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.03187px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.03187px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
          x="47.070751"
          y="45.889904"
          id="text14"
@@ -435,21 +412,21 @@
          transform="scale(1.0846881,0.92192402)"><tspan
            sodipodi:role="line"
            id="tspan8"
-           style="stroke-width:0;fill:#234059;fill-opacity:1"
+           style="fill:#234059;fill-opacity:1;stroke-width:0"
            x="47.070751"
            y="45.889904">更</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.03479px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
-         x="39.379086"
+         x="39.207832"
          y="46.7714"
          id="text17"
          transform="scale(1.103491,0.90621492)"
          inkscape:label="木"><tspan
            sodipodi:role="line"
            id="tspan16"
-           style="stroke-width:0;fill:#234059;fill-opacity:1"
-           x="39.379086"
+           style="fill:#234059;fill-opacity:1;stroke-width:0"
+           x="39.207832"
            y="46.7714">木</tspan></text>
     </g>
     <g
@@ -477,24 +454,37 @@
            id="tspan36"
            x="45.032024"
            y="50.784962"
-           style="stroke-width:0;fill:#234059;fill-opacity:1">FOR KIMITSU</tspan></text>
+           style="fill:#234059;fill-opacity:1;stroke-width:0">FOR KIMITSU</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.42833px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         x="41.956951"
-         y="51.582176"
-         id="text33"
-         transform="scale(1.2182525,0.8208479)"
-         inkscape:label="君津"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86201px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="51.499832"
+         y="47.037895"
+         transform="scale(1.110927,0.90014917)"
+         inkscape:label="津"
+         id="text3760"><tspan
            sodipodi:role="line"
-           id="tspan38"
-           x="41.956951"
-           y="51.582176"
-           style="stroke-width:0;fill:#234059;fill-opacity:1">君 津</tspan></text>
+           id="tspan50"
+           x="51.499832"
+           y="47.037895"
+           style="stroke-width:0">津</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.02849px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
+         x="41.227467"
+         y="46.2878"
+         id="text33"
+         transform="scale(1.0927527,0.91512013)"
+         inkscape:label="君"><tspan
+           sodipodi:role="line"
+           id="tspan49"
+           x="41.227467"
+           y="46.2878"
+           style="stroke-width:0">君</tspan></text>
     </g>
     <g
        id="g40"
-       transform="translate(-0.09430184,22.677247)"
+       transform="translate(-0.0943018,22.6772)"
        style="stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill">
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
@@ -517,20 +507,546 @@
            id="tspan41"
            x="45.328098"
            y="50.830273"
-           style="stroke-width:0;fill:#234059;fill-opacity:1">FOR TATEYAMA</tspan></text>
+           style="fill:#234059;fill-opacity:1;stroke-width:0">FOR TATEYAMA</tspan></text>
+      <text
+         x="51.065903"
+         y="47.554863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.286px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         transform="scale(1.1194404,0.89330347)"
+         id="text51"
+         inkscape:label="山"><tspan
+           x="51.065903"
+           y="47.554863"
+           id="tspan51"
+           style="stroke-width:0">山</tspan></text>
+      <text
+         x="41.383446"
+         y="46.260666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.90153px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
+         transform="scale(1.0910496,0.91654862)"
+         id="text53"
+         inkscape:label="館"><tspan
+           x="41.383446"
+           y="46.260666"
+           id="tspan53"
+           style="stroke-width:0">館</tspan></text>
+    </g>
+    <g
+       id="g39">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect2"
+         width="26.456694"
+         height="7.5590553"
+         x="37.889595"
+         y="52.913406"
+         ry="1.511811"
+         rx="1.511811"
+         transform="translate(-0.09430182,22.677247)" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.51018px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:markers stroke fill"
-         x="42.642509"
-         y="51.031773"
-         id="text40"
-         transform="scale(1.2035732,0.83085931)"
-         inkscape:label="館山"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55644px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="48.393616"
+         y="84.599617"
+         id="text4"
+         transform="scale(1.0558866,0.94707141)"
+         inkscape:label="安房鴨川"><tspan
            sodipodi:role="line"
-           id="tspan40"
-           x="42.642509"
-           y="51.031773"
-           style="stroke-width:0;fill:#234059;fill-opacity:1">館 山</tspan></text>
+           id="tspan39"
+           x="48.393616"
+           y="84.599617"
+           style="stroke-width:0">安房鴨川</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.16038px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="46.347542"
+         y="91.210991"
+         id="text42"
+         inkscape:label="FOR AWA-KAMOGAWA"
+         transform="scale(1.1003886,0.90876985)"><tspan
+           sodipodi:role="line"
+           id="tspan42"
+           style="stroke-width:0"
+           x="46.347542"
+           y="91.210991">FOR AWA-KAMOGAWA</tspan></text>
+    </g>
+    <g
+       id="g69">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect42"
+         width="26.456694"
+         height="7.5590553"
+         x="37.79533"
+         y="90.708778"
+         ry="1.511811"
+         rx="1.511811" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.23577px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="44.870113"
+         y="111.4007"
+         id="text44"
+         transform="scale(1.1365847,0.87982885)"
+         inkscape:label="FOR KATSUURA"><tspan
+           sodipodi:role="line"
+           id="tspan44"
+           style="stroke-width:0"
+           x="44.870113"
+           y="111.4007">FOR KATSUURA</tspan></text>
+      <text
+         x="51.706188"
+         y="105.1258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81492px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';text-align:center;text-anchor:middle;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
+         transform="scale(1.103571,0.90614922)"
+         id="text54"
+         inkscape:label="浦"><tspan
+           x="51.706188"
+           y="105.1258"
+           id="tspan54"
+           style="stroke-width:0">浦</tspan></text>
+      <text
+         x="40.456303"
+         y="105.873"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86244px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';text-align:center;text-anchor:middle;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
+         transform="scale(1.1115903,0.89961203)"
+         id="text56"
+         inkscape:label="勝"><tspan
+           x="40.456303"
+           y="105.873"
+           id="tspan56"
+           style="stroke-width:0">勝</tspan></text>
+    </g>
+    <g
+       id="g44">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect44"
+         width="26.456694"
+         height="7.5590553"
+         x="37.795315"
+         y="105.8269"
+         ry="1.511811"
+         rx="1.511811" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.90412px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="50.772629"
+         y="110.82202"
+         id="text45"
+         transform="scale(1.0053221,0.99470608)"
+         inkscape:label="上総一ノ宮"><tspan
+           sodipodi:role="line"
+           id="tspan45"
+           style="stroke-width:0"
+           x="50.772629"
+           y="110.82202">上総一ノ宮</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.05551px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="48.307064"
+         y="119.24112"
+         id="text46"
+         inkscape:label="FOR KAZUSA-ICHINOMIYA"
+         transform="scale(1.0557954,0.9471532)"><tspan
+           sodipodi:role="line"
+           id="tspan46"
+           style="stroke-width:0"
+           x="48.307064"
+           y="119.24112">FOR KAZUSA-ICHINOMIYA</tspan></text>
+    </g>
+    <g
+       id="g68">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect67"
+         width="26.456694"
+         height="7.5590553"
+         x="37.795364"
+         y="120.94505"
+         ry="1.511811"
+         rx="1.511811" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.28178px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="44.818691"
+         y="145.93105"
+         id="text69"
+         inkscape:label="FOR MOBARA"
+         transform="scale(1.1378769,0.87882969)"><tspan
+           sodipodi:role="line"
+           id="tspan69"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.28178px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0"
+           x="44.818691"
+           y="145.93105">FOR MOBARA</tspan></text>
+      <text
+         x="50.827347"
+         y="140.90382"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08641px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
+         id="text67"
+         transform="scale(1.1229706,0.89049526)"
+         inkscape:label="原"><tspan
+           x="50.827347"
+           y="140.90382"
+           id="tspan67"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08641px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#234059;fill-opacity:1;stroke-width:0">原</tspan></text>
+      <text
+         x="40.219955"
+         y="140.50972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95036px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408"
+         id="text68"
+         inkscape:label="茂"
+         transform="scale(1.1196571,0.89313058)"><tspan
+           x="40.219955"
+           y="140.50972"
+           id="tspan68"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95036px;font-family:JNR_Font;-inkscape-font-specification:'JNR_Font, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#234059;fill-opacity:1;stroke-width:0">茂</tspan></text>
+    </g>
+    <g
+       id="g70"
+       transform="translate(-1.0604627e-6,15.11811)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect69"
+         width="26.456694"
+         height="7.5590553"
+         x="37.795364"
+         y="120.94505"
+         ry="1.511811"
+         rx="1.511811" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.45268px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="41.900776"
+         y="156.8602"
+         id="text72"
+         inkscape:label="FOR ŌAMI"
+         transform="scale(1.2230951,0.81759793)"><tspan
+           sodipodi:role="line"
+           id="tspan72"
+           x="41.900776"
+           y="156.8602"
+           style="stroke-width:0">FOR OAMI</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.90887px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="51.597858"
+         y="138.97327"
+         id="text71"
+         inkscape:label="網"
+         transform="scale(1.107217,0.90316533)"><tspan
+           sodipodi:role="line"
+           id="tspan71"
+           style="stroke-width:0"
+           x="51.597858"
+           y="138.97327">網</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08642px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="40.202778"
+         y="140.34956"
+         id="text70"
+         inkscape:label="大"
+         transform="scale(1.1179041,0.89453111)"><tspan
+           sodipodi:role="line"
+           id="tspan70"
+           style="stroke-width:0"
+           x="40.202778"
+           y="140.34956">大</tspan></text>
+    </g>
+    <g
+       id="g72">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect72"
+         width="26.456694"
+         height="7.5590553"
+         x="37.795326"
+         y="151.18129"
+         ry="1.511811"
+         rx="1.511811" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27917px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="45.08308"
+         y="180.61667"
+         id="text75"
+         inkscape:label="FOR NARUTO"
+         transform="scale(1.1396453,0.877466)"><tspan
+           sodipodi:role="line"
+           id="tspan75"
+           style="stroke-width:0"
+           x="45.08308"
+           y="180.61667">FOR NARUTO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97193px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="51.439819"
+         y="172.7688"
+         id="text74"
+         inkscape:label="東"
+         transform="scale(1.1093386,0.90143803)"><tspan
+           sodipodi:role="line"
+           id="tspan74"
+           style="stroke-width:0"
+           x="51.439819"
+           y="172.7688">東</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97326px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="40.143044"
+         y="174.43994"
+         id="text73"
+         inkscape:label="成"
+         transform="scale(1.1202084,0.89269104)"><tspan
+           sodipodi:role="line"
+           id="tspan73"
+           style="stroke-width:0"
+           x="40.143044"
+           y="174.43994">成</tspan></text>
+    </g>
+    <g
+       id="g75"
+       transform="translate(0,15.118139)">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect75"
+         width="26.456694"
+         height="7.5590553"
+         x="37.795326"
+         y="151.18129"
+         ry="1.511811"
+         rx="1.511811" />
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.25993px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="44.389622"
+         y="199.44962"
+         id="text78"
+         transform="matrix(1.1488755,0,0,0.87041633,4.0042377e-8,-15.118139)"
+         inkscape:label="FOR SAKURA"><tspan
+           sodipodi:role="line"
+           id="tspan78"
+           style="stroke-width:0"
+           x="44.389622"
+           y="199.44962">FOR SAKURA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99784px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="51.169651"
+         y="190.66574"
+         id="text77"
+         transform="matrix(1.1158078,0,0,0.89621168,4.0042377e-8,-15.118139)"
+         inkscape:label="倉"><tspan
+           sodipodi:role="line"
+           id="tspan77"
+           style="stroke-width:0"
+           x="51.169651"
+           y="190.66574">倉</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.9619px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="40.578674"
+         y="189.59076"
+         id="text76"
+         transform="matrix(1.1096515,0,0,0.90118384,4.0042377e-8,-15.118139)"
+         inkscape:label="佐"><tspan
+           sodipodi:role="line"
+           id="tspan76"
+           style="stroke-width:0"
+           x="40.578674"
+           y="189.59076">佐</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect78"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="181.41757"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect79"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="196.53568"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect80"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="211.65381"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect81"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="226.77194"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect82"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="241.89008"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect83"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="257.00824"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect84"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="272.1264"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect85"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="287.24457"
+       ry="1.511811"
+       rx="1.511811" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+       id="rect87"
+       width="26.456694"
+       height="7.5590553"
+       x="37.795326"
+       y="317.4809"
+       ry="1.511811"
+       rx="1.511811" />
+    <g
+       id="g97">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;image-rendering:auto"
+         id="rect86"
+         width="26.456694"
+         height="7.5590553"
+         x="37.795326"
+         y="302.36273"
+         ry="1.511811"
+         rx="1.511811" />
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:1;stroke:#dc401d;stroke-width:0.377952;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect96"
+         width="7.9370193"
+         height="3.4015794"
+         x="38.740189"
+         y="302.92953"
+         rx="0.45354378"
+         ry="0.42054036" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.09283px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="47.253933"
+         y="279.65826"
+         id="text88"
+         transform="scale(0.90385428,1.106373)"
+         inkscape:label="各駅停車"><tspan
+           sodipodi:role="line"
+           id="tspan99"
+           x="47.253933"
+           y="279.65826"
+           style="stroke-width:0">各   駅   停   車</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.10321px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#234059;fill-opacity:1;stroke-width:0;stroke-linecap:square;stroke-miterlimit:2;stroke-dashoffset:0.344408;paint-order:markers stroke fill"
+         x="47.34412"
+         y="277.74487"
+         id="text87"
+         transform="scale(0.90204994,1.1085861)"
+         inkscape:label="内房線内"><tspan
+           sodipodi:role="line"
+           id="tspan98"
+           x="47.34412"
+           y="277.74487"
+           style="stroke-width:0">内   房   線   内</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.61148px;font-family:'JR-Cen Rollsign';-inkscape-font-specification:'JR-Cen Rollsign, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#dc401d;fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         x="40.045406"
+         y="325.42264"
+         id="text97"
+         transform="scale(1.0651196,0.93886171)"
+         inkscape:label="快速"><tspan
+           sodipodi:role="line"
+           id="tspan102"
+           x="40.045406"
+           y="325.42264">快 速</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#dc401d;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 46.677214,302.91254 v 3.40166 0"
+         id="path99" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#dc401d;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 38.740194,302.91047 v 3.40192 0"
+         id="path100" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#dc401d;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 38.92917,306.3311 h 7.559346 v 0"
+         id="path101" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#dc401d;stroke-width:0.755905;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 38.927545,302.92951 h 7.559345 v 0"
+         id="path102" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.25813px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0.755907;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1;paint-order:markers stroke fill"
+         x="49.398174"
+         y="349.62262"
+         id="text104"
+         transform="scale(1.1290447,0.88570454)"
+         inkscape:label="FOR TOKYO"><tspan
+           sodipodi:role="line"
+           id="tspan104"
+           style="stroke-width:0.755906"
+           x="49.398174"
+           y="349.62262">FOR TOKYO</tspan></text>
+      <text
+         x="53.016823"
+         y="350.35968"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08488px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1"
+         transform="scale(1.1408844,0.87651299)"
+         id="text106"
+         inkscape:label="京"><tspan
+           x="53.016823"
+           y="350.35968"
+           id="tspan106"
+           style="stroke-width:0.755906">京</tspan></text>
+      <text
+         x="45.647873"
+         y="340.68985"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.97193px;font-family:JNRfont_p;-inkscape-font-specification:'JNRfont_p, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#234059;fill-opacity:1;stroke:none;stroke-width:0.755907;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2;stroke-dasharray:none;stroke-dashoffset:0.344408;stroke-opacity:1"
+         transform="scale(1.1093392,0.90143755)"
+         id="text107"
+         inkscape:label="東"><tspan
+           x="45.647873"
+           y="340.68985"
+           id="tspan107"
+           style="stroke-width:0.755907">東</tspan></text>
     </g>
   </g>
   <metadata
